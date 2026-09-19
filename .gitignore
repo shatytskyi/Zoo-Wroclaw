@@ -1,0 +1,14 @@
+node_modules
+dist
+.output
+.vercel
+.nitro
+.tanstack
+*.log
+.DS_Store
+screenshots
+artifacts
+attachments
+.env
+.env.*
+public/tiles
